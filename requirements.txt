@@ -1,0 +1,23 @@
+# AI Invoice Parser - Stable Dependencies
+# Tested for Windows 11, Python 3.11+
+# All versions verified available on PyPI
+
+# Core framework
+streamlit==1.51.0
+
+# AI/LLM
+openai==2.3.0
+
+# PDF processing
+pypdf==6.1.1
+pdf2image==1.17.0
+pillow==11.0.0
+
+# Google Sheets integration
+gspread==6.2.1
+google-auth==2.43.0
+google-auth-oauthlib==1.2.2
+
+# Utilities
+python-dateutil==2.9.0.post0
+protobuf==6.33.1
